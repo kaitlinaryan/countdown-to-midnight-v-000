@@ -7,3 +7,4 @@ while x > 1
 counter -= 1
   puts "HAPPY NEW YEAR!"
 end
+end
