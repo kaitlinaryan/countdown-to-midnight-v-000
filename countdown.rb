@@ -6,6 +6,6 @@ def countdown(n)
     counter -= 1
     10.times do
     puts "#{n} SECOND(S)!"
+  end
     return "HAPPY NEW YEAR!"
   end
-end
